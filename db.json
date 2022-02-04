@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "cherry",
+      "phone": "0999 99 99 99 ",
+      "email": "cherry.com",
+      "image": "https://nastinblog.com/wp-content/uploads/2012/11/screenshot_21-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "KanybekBolotanov",
+      "phone": "06666666666666666666",
+      "email": "11111111111",
+      "image": "1111111111111111111111111",
+      "id": 3
+    },
+    {
+      "name": "Aiganysh",
+      "phone": "0555 55 55 55",
+      "email": "AguwaMartywa",
+      "image": "https://yt3.ggpht.com/wRP1OHzDS9hC26k4UxMAWPCMVP3URD95yaV-cL6oaZx160Wm0Whfs5qKiJM6wZlHG90HfYxJMbU=s900-c-k-c0x00ffffff-no-rj",
+      "id": 4
+    }
+  ]
+}
